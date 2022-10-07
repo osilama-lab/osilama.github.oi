@@ -8,19 +8,18 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  margin: 75px auto;
 }
 
 h1{
   text-align: center;
   color:ghostwhite;
   font-size: 3rem;
-  
+  margin: 10rem auto;
 
 }
 
 hr{
-  margin: 50px auto;
+  margin: 2px auto;
   color: #F05F44;
   border: 3px solid #F05F44;
    max-width: 65px;
@@ -28,14 +27,11 @@ hr{
 
 }
 
-.buffer{
-  height: 3rem;
-}
-
 .btn{
   font-weight: 700;
   border-radius: 300px;
   text-transform: uppercase;
+  margin: 1rem auto;
 }
 
 .btn-primary{
@@ -54,9 +50,8 @@ hr{
 }
 
 section{
-  margin:0px 0px 250px 0px;
+  margin: 0px 0px 280px 0px;
 }
-
 
 
 
